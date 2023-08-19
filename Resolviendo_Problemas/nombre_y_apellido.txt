@@ -1,0 +1,13 @@
+los datos son: 
+Nombre: Gonzalo 
+Apellido: Martinez
+-------------
+Nombre: Dario 
+Apellido: Rodriguez
+-------------
+Nombre: Federico 
+Apellido: Gonzalez
+-------------
+Nombre: Natalia 
+Apellido: Perez
+-------------
